@@ -1,0 +1,29 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appIDs": [
+                    "4KN48HU229.com.fortex-finance.uplata"
+                ],
+                "components": [
+                    {
+                        "/": "/qr/*",
+                        "comment": "Open QR"
+                    },
+                    {
+                        "/": "/mreo/*",
+                        "comment": "Open QR"
+                    }
+                ]
+            },
+            {
+                "appID": "4KN48HU229.com.fortex-finance.uplata",
+                "paths": [
+                    "/qr/*",
+                    "/mreo/*"
+                ]
+            }
+        ]
+    }
+}
